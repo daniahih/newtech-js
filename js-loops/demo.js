@@ -1,1 +1,1 @@
-console.log("hi from loops");
+console.log("hi from amalia");
